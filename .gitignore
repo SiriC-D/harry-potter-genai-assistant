@@ -1,0 +1,24 @@
+# Environment variables (contains API keys)
+.env
+
+# Python virtual environment (large and recreated easily)
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# FAISS index (generated data, can be large, should be rebuilt)
+faiss_index_hp/
+
+# Streamlit's local cache
+.streamlit/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (optional, but good to ignore if app.py is primary)
+*.ipynb
+.ipynb_checkpoints/

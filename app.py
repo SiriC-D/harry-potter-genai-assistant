@@ -461,4 +461,4 @@ else: # Default UI for other features
 
 st.markdown("---")
 st.caption("Powered by LangChain, Google Gemini, and your Harry Potter books.")
-st.caption("Contact at siri12091713@gmail.com")
+st.caption("Contact at sirichandana20082006@gmail.com")
